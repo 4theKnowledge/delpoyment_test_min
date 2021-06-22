@@ -1,3 +1,3 @@
-# delpoyment_test_min
+# deployment_test_min
 
 Minimal repo for repository cloning in deployment environments.
